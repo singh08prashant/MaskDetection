@@ -15,7 +15,7 @@ It classifies live input from the users **Webcam** and tells the probability of 
   2. Set up Web Server for Chrome to the above directory
   3. Follow the link mentioned in the Web Server for Chrome App
   4. **Give permission to access camera**
-  5. Click **Start Prediction** to see live predictions
-  6. Click **Stop Prediction** to stop predicting
+  5. Click **Start Predicting** to see live predictions
+  6. Click **Stop Predicting** to stop predicting
 
 ![Screenshot](https://github.com/singh08prashant/MaskDetectionWebApp/blob/master/ss.png)
