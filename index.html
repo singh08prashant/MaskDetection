@@ -1,0 +1,51 @@
+<html>
+<head>
+<script src="https://unpkg.com/@tensorflow/tfjs"></script>
+<script src="https://unpkg.com/@tensorflow/tfjs-automl"></script>
+<style>
+body {
+      background: #F4F6F7 url('bgground.png') no-repeat;
+	    margin-right: 200px;
+		background-size:cover;
+		
+
+}
+</style>
+</head>
+
+<!--<script>
+async function run() {
+  const model = await tf.automl.loadImageClassification('model.json');
+  const image = document.getElementById('daisy');
+  const predictions = await model.classify(image);
+  console.log(predictions);
+  // Show the resulting object on the page.
+  const pre = document.createElement('pre');
+  pre.textContent = JSON.stringify(predictions, null, 1);
+  document.body.append(pre);
+}
+run();
+</script>-->
+
+
+<body >
+	<div id="console"></div>
+	<center>
+	
+	<video autoplay playsinline muted id="webcam" width="224" height="224" style="position:absolute;margin-top:10%"></video>
+	
+	
+	<div id="predictions-mask" style="position:absolute;margin-top:28%;left:40%;font-family:Comic Sans MS, cursive, sans-serif; font-size:28px;background-color:#F4D03F"></div>
+	<div id="predictions-no-mask" style="position:absolute;margin-top:28%;left:52%;font-family:Comic Sans MS, cursive, sans-serif; font-size:28px;background-color:#F4D03F"></div>
+	
+	</center>
+	<center>
+
+	
+	
+	<button type="button" id="startPredicting" style="position:absolute;width:400px;left:22%;margin-top:35%;background-color:#239B56; font-size:32px; padding: 32px 16px; border-radius: 20px; border: 3px solid #17202A" onclick="startPredicting()" >Start Predicting</button>
+	<button type="button" id="stopPredicting" style="position:absolute;width:400px;left:52%;margin-top:35%;background-color:#f44336; font-size:32px; padding: 32px 16px; border-radius: 20px; border: 3px solid #17202A" onclick="stopPredicting()" >Stop Predicting</button>
+	<script src= "index.js"></script>
+</center>
+</body>
+</html>
