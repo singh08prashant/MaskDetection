@@ -1,3 +1,3 @@
 # MaskDetectionWebApp
 
-![Screenshot](Screenshot (206).png)
+![Screenshot](https://github.com/singh08prashant/MaskDetectionWebApp/blob/master/ss.png)
