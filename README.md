@@ -10,9 +10,9 @@ _**Precision**_
 
 It classifies live input from the users **Webcam** and tells the probability of the user wearing a face mask or not.
 
-## How To Use
+## How To Use :interrobang:
 
-### :heavy_exclamation_mark:Requirements 
+### :heavy_exclamation_mark::heavy_exclamation_mark:Requirements 
   * Chrome browser
   * Stable Internet Connection
   * [:link:Web server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related?hl=en)
