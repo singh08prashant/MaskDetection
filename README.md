@@ -1,6 +1,12 @@
 # MaskDetectionWebApp
 
 ## An Image Classification Web Appliction built using Tensorflow.js and Google Cloud AutoML Vision API.
+### Model Metrics
+_**Confusion Matrix**_
+![Confusion Matrix](https://github.com/singh08prashant/MaskDetectionWebApp/blob/master/cm.png)
+
+_**Precision**_
+![Precision](https://github.com/singh08prashant/MaskDetectionWebApp/blob/master/metrics.png)
 
 It classifies live input from the users **Webcam** and tells the probability of the user wearing a face mask or not.
 
