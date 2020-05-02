@@ -1,4 +1,4 @@
-# MaskDetectionWebApp
+# MaskDetectionWebApp :point_left:
 
 ## An Image Classification Web Appliction built using Tensorflow.js and Google Cloud AutoML Vision API.
 ### Model Metrics
@@ -12,10 +12,10 @@ It classifies live input from the users **Webcam** and tells the probability of 
 
 ## How To Use
 
-### Requirements
+### :heavy_exclamation_mark:Requirements 
   * Chrome browser
   * Stable Internet Connection
-  * [Web server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related?hl=en)
+  * [:link:Web server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related?hl=en)
   
   1. Download/ Clone all files from this repo and **keep them in a single directory**
   2. Set up Web Server for Chrome to the above directory
