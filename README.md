@@ -9,11 +9,14 @@ It classifies live input from the users **Webcam** and tells the probability of 
 ### Model Metrics :rotating_light:
 
 _**Confusion Matrix**_
+
 ![Confusion Matrix](https://github.com/singh08prashant/MaskDetectionWebApp/blob/master/cm.png)
 
 ---
 
+
 _**Precision**_
+
 ![Precision](https://github.com/singh08prashant/MaskDetectionWebApp/blob/master/metrics.png)
 
 
@@ -38,5 +41,7 @@ _**Precision**_
   6. Click **Stop Predicting** to stop predicting
   
   ---
+  
+  ## Screenshot of the project
 
 ![Screenshot](https://github.com/singh08prashant/MaskDetectionWebApp/blob/master/ss.png)
