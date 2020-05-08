@@ -2,6 +2,9 @@
 
 ## An Image Classification Web Appliction built using Tensorflow.js and Google Cloud AutoML Vision API.
 
+**UPDATE**:  deployed it on GCP App Engine. Check it out at: [:link: Mask Detection Project](https://mask-detection-pbl.el.r.appspot.com/) 
+:interrobang: **works only on laptop/ PC**
+
 It classifies live input from the users **Webcam** and tells the probability of the user wearing a face mask or not.
 
 ---
@@ -30,6 +33,7 @@ _**Precision**_
   * Chrome browser
   * Stable Internet Connection
   * [:link:Web server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related?hl=en)
+  
   
   ---
   
