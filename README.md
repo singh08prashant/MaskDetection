@@ -9,6 +9,8 @@ It classifies live input from the users **Webcam** and tells the probability of 
 
 ---
 
+**Want to build your own image classification web app? Read my [Article](https://towardsdatascience.com/building-deploying-an-image-classification-web-app-with-automl-vision-tensorflow-js-app-engine-08-3157958a3289)
+
 ### Model Metrics :rotating_light:
 
 _**Confusion Matrix**_
